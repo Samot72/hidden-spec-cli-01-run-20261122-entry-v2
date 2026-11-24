@@ -1,8 +1,8 @@
 # mend — one patch tool for every AI edit format
 
 [![Competition](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/c/hidden-spec-cli-01-run-20261122)
-[![Rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Samot72/hidden-spec-cli-01-run-20261122-entry/rank.svg)](https://make.fun/c/hidden-spec-cli-01-run-20261122)
-[![Reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Samot72/hidden-spec-cli-01-run-20261122-entry/reward.svg)](https://make.fun/c/hidden-spec-cli-01-run-20261122)
+[![Rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Samot72/hidden-spec-cli-01-run-20261122-entry-v2/rank.svg)](https://make.fun/c/hidden-spec-cli-01-run-20261122)
+[![Reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Samot72/hidden-spec-cli-01-run-20261122-entry-v2/reward.svg)](https://make.fun/c/hidden-spec-cli-01-run-20261122)
 
 `mend` applies an edit that an AI model wrote to a tree of text files, as
 specified by `SPEC.md` in the competition kit. One command-line tool reads all
